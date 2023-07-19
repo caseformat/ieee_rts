@@ -1,0 +1,20 @@
+Power flow data for the IEEE RELIABILITY TEST SYSTEM.
+
+This system data is from the IEEE RELIABILITY TEST SYSTEM, see
+
+IEEE Reliability Test System Task Force of the Applications of
+Probability Methods Subcommittee, "IEEE reliability test system,"
+IEEE Transactions on Power Apparatus and Systems, Vol. 98, No. 6,
+Nov./Dec. 1979, pp. 2047-2054.
+
+IEEE Reliability Test System Task Force of Applications of
+Probability Methods Subcommittee, "IEEE reliability test system-96,"
+IEEE Transactions on Power Systems, Vol. 14, No. 3, Aug. 1999,
+pp. 1010-1020.
+
+Cost data is from Web site run by Georgia Tech Power Systems Control
+and Automation Laboratory:
+
+    http://pscal.ece.gatech.edu/testsys/index.html
+
+MATPOWER case file data provided by Bruce Wollenberg.
